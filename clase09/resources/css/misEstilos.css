@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+main h2{
+    font-size: 28px;
+    font-family: 'Lobster', cursive;
+}
+
+#listaTarjetas{
+    text-align: center;
+}
+
+.miTarjeta {
+    width: 40%;
+    padding: 0%;
+    text-align: center;
+    margin: 40px;
+    background-color:rgba(255, 208, 138, 0.918);
+    border-radius: 20px;
+    padding: 0%;
+}
+
+/*Clases Querry*/
+
+.vertical {
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.horizontal {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.fondo1 {
+    background-color: coral;
+}
+
+.fondo2 {
+    background-color: white;
+}

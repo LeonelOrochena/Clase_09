@@ -1,0 +1,48 @@
+.main{
+    margin: 0%;
+}
+
+#all{
+    margin: 0%;
+}
+
+#btn{
+    color: bisque;
+}
+
+#banner{
+    background-color: bisque;
+    width: 100%;
+}
+
+#banner ul li{
+   list-style: none;
+   padding: 15px;
+   margin: 15px;
+   background-color: rgba(88, 45, 45, 0.685);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   border-radius: 10px;
+}
+
+#banner ul li a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+
+#banner ul li a:hover {
+    color: burlywood;
+    transition: top, bottom, left, right, 700ms ease-in-out;
+    font-style: none;
+
+}
+
+#img{
+    text-align: center;
+    margin: 0%;
+    padding: 50px;
+    border-radius: 30px;
+}
+
+#lema{
+    text-align: center;
+}
